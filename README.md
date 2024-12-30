@@ -5,7 +5,7 @@
    
 </head>
 <body>
-    <h2>visit Page </h2>
+    <h2>Visit Page </h2>
     <p> Link: https://kiruthigasri.netlify.app/ </p>
 </body>
 
